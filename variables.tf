@@ -113,7 +113,7 @@ variable "repository_description" {
 }
 
 variable "git_repo" {
-  default = "https://github.com/oracle-devrel/python-oci-devops-function"
+  default = "https://github.com/deepaksinghwrites/python-oci-devops-function"
 }
 
 variable "git_repo_name" {
